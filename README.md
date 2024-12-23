@@ -72,11 +72,4 @@ To switch to image processing mode, uncomment the `open_img()` line and comment 
 - Press 'q' to exit video processing mode
 - Press any key to close image windows in image processing mode
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
